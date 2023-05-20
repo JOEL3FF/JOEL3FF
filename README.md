@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hola Mundo
+Mi nombre es Joel Zambrano un programador autodidacta que esta dispuesto aprender todo acerca de este hermoso mundo de la programacion,puedes revisar todo acerca de mis proyectos ya sea personales o para diferentes usuarios.
 
-<!--
-**JOEL3FF/JOEL3FF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+![GIF](https://media.tenor.com/QNZYmjzUjYYAAAAd/mark-zuckerberg-facebook.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Skills
+---
+- HTML
+- CSS
+- JAVASCRIPT
